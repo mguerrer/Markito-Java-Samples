@@ -1,5 +1,5 @@
 ![Markito logo](https://github.com/mguerrer/Markito/blob/main/images/Markito-100.png)
-# Markito-Java-Samples
+
 ## Sample project for easy Markito learning.
 
 This project uses Markito package from GitHub packages.    
